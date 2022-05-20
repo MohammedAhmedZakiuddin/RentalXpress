@@ -1,14 +1,19 @@
 # Car_Rental_Database
 
 This is the car rental database project, in which we are developing a graphical user interface (GUI) in Python by accessing the data from SQL database. <br />
+
 Tools used:   <br />
+
 •	Visual Studio Code (Python) or Text Editor (Notepad++).  <br />
 •	SQLite 3.  <br />
 •	Terminal or command prompt (To run the database (db.)).  <br />
 •	GUI (Tkinter)   <br />
 •	Word & Adobe  <br />
+
+
 Steps that are required to install and run your program:  <br />
 We were provided with .csv files which were loaded with data regarding the car rental database. To import the .csv files to the database (CarRental2019.db)  <br />
+
 •	 Sqlite3  <br />
 •	.open CarRental2019.db (This command opens the allocated database).  <br />
 •	.headers on   <br />
@@ -20,11 +25,15 @@ We were provided with .csv files which were loaded with data regarding the car r
 •	.import VEHICLE.csv VEHICLE  <br />
 •	.mode column (Each record is displayed on a separate line).   <br />
 •	.schema (To check if all the schemas are in the correct order).  <br />
+
+
 We used Python and the GUI Toolkit to execute the database's graphical user interface GUI. (Tkinter).  <br />
 Commands to launch the GUI and check if your computer has the correct version of Python installed.  <br />
 •	Python --version (Python 3.10.2)    <br />
 Once we've verified that our computer has the correct Python version, we can execute the GUI with this command.  <br />
 •	Python3 gui.py   <br />
+
+
 Screenshots:  <br />
 •	The image below explains how to use the commands to get into the database and evaluate the schemas within the database.  <br />
  
