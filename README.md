@@ -1,4 +1,4 @@
-# Car_Rental_Database
+# RentalXpress - Car Rental Database
 
 This is the car rental database project, in which we are developing a graphical user interface (GUI) in Python by accessing the data from SQL database. <br />
 
